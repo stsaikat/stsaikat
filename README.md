@@ -1,27 +1,57 @@
-# 👋 Hi there, I'm Sunipun Saikat
+# 👋 Hi, I'm Sunipun Saikat
 
-I'm a passionate developer from Bangladesh, specializing in Python-based solutions across AI, computer vision, and geospatial technologies. My work bridges the gap between complex data and intuitive applications, making advanced technologies accessible and impactful.
+I'm an AI Engineer and software developer based in Dhaka, Bangladesh, with a strong foundation in mathematics and a passion for solving real-world problems through artificial intelligence. I bring hands-on experience in machine learning, computer vision, and generative AI—building systems used by **millions of users** globally.
 
-## 🚀 Featured Projects
+---
 
-- **[Semantic Image Search](https://github.com/stsaikat/semantic-image-search)**  
-  A tool that enhances image retrieval by understanding semantic content, enabling more accurate and context-aware searches.
+## 💼 What I Do
 
-- **[Image Manipulation Toolkit](https://github.com/stsaikat/image-manipulation)**  
-  A collection of scripts and tools for advanced image processing tasks, facilitating efficient and creative image transformations.
+- 🧠 **Generative AI & Diffusion Models**: Engineered production-level models for image and video generation, enhancement, and transformation. I’ve worked extensively on **text-to-image**, **text-to-gif**, **image-to-video**, and **faceswap** pipelines.
 
-- **[LLM-Powered Chatbot](https://github.com/stsaikat/chatbot)**  
-  An easy-to-deploy chatbot leveraging large language models, designed for seamless integration and intelligent interactions.
+- 🎨 **Computer Vision Applications**: Deployed scalable models for segmentation, classification, denoising, and super-resolution, impacting over **10 million users** through commercial apps like [Cartoon AI](https://apps.apple.com/us/app/cartoon-ai-ai-art-generator/id6469111220).
 
-- **[Video to Audio Converter](https://github.com/stsaikat/videotoaudioconverter)**  
-  A straightforward utility to extract audio from video files, supporting various formats for versatile use cases.
+- 📱 **Mobile & Multimedia Engineering**: From Android internals to OpenGL rendering, I've built multimedia modules in Java/Kotlin/C++ optimizing performance for devices across the spectrum.
 
-- **[Classification Made Easy](https://github.com/stsaikat/classification-made-easy)**  
-  A library aimed at simplifying classification tasks, providing streamlined workflows for machine learning projects.
+- 🧪 **Research & R&D Pipelines**: Experienced in training and fine-tuning ML models with **PyTorch**, **Transformers**, and **VectorDBs**, including work on **semantic-aware image search** and **custom image classification pipelines**.
 
-## 📫 Connect with Me
+---
 
-- Email: talukdersunipun@gmail.com
+## 🧰 Skills & Tools
+
+**Languages**: Python, C++, Java, Kotlin, Swift  
+**Frameworks & Libraries**: PyTorch, OpenCV, scikit-learn, NumPy, Matplotlib  
+**AI Focus**: Classification, Segmentation, Diffusion, Enhancement, Upscale, Inpainting  
+**Dev Tools**: Docker, Git, FastAPI, Gradio  
+**Others**: OpenGL ES, MediaCodec API, RenderScript, SQLite, MySQL
+
+---
+
+## 🧠 Competitive Programming Background
+
+- ⭐ Codeforces: [Expert (1767)](https://codeforces.com/profile/stsaikat)  
+- ⭐ CodeChef: [4★ (1844)](https://www.codechef.com/users/thestsaikat)  
+- 🧮 LeetCode: [Top 1.1%](https://leetcode.com/sunipun)  
+
+---
+
+## 🧑‍🏫 Teaching & Volunteering
+
+- 🏫 **Trainer & Moderator**, Euclid Programming Club, SUST (2017–2020)  
+  > Led over 30 workshops, mentoring 200+ students in algorithms and data structures.
+
+- 🌱 **Admin**, Shuddho Social Org. – Community development & youth programs (2015–2019)
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sunipun/)
+- 💻 [GitHub](https://github.com/stsaikat)
+- 🌐 [Portfolio](https://www.sunipun.com)
+- 📧 [talukdersunipun@gmail.com](mailto:talukdersunipun@gmail.com)
 - Alternate Profiles: [@tsunipun](https://github.com/tsunipun) | [@sunipun](https://github.com/sunipun)
 
-Feel free to explore my repositories, contribute to ongoing projects, or reach out for collaboration opportunities!
+---
+
+📌 _“From pixels to patterns, I build AI that sees and learns.”_
+

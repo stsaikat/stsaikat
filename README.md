@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunipun Saikat
 
-I'm an AI Engineer and software developer based in Dhaka, Bangladesh, with a strong foundation in mathematics and a passion for solving real-world problems through artificial intelligence. I bring hands-on experience in machine learning, computer vision, and generative AI—building systems used by **millions of users** globally.
+I'm an AI Engineer and software developer, with a strong foundation in mathematics and a passion for solving real-world problems through artificial intelligence. I bring hands-on experience in machine learning, computer vision, and generative AI—building systems used by **millions of users** globally.
 
 ---
 
